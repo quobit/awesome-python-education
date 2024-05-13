@@ -79,6 +79,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 ### Introductions and Tutorials
 
 * [The Hello World Program: Learn Python](https://thehelloworldprogram.com/python/)
+* [Master Python Learning Path](https://programiz.pro/learn/master-python) - highly curated learning path that consists of interactive courses with hands-on practice, challenge courses, and interview preparation courses, focused on Python beginners.
 * [Practical Python Programming (course by @dabeaz)](https://github.com/dabeaz-course/practical-python)
 * [Introduction to Python](http://introtopython.org/)
 * [NewCoder](http://newcoder.io/)
