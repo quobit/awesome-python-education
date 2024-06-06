@@ -147,6 +147,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Project Euler](https://projecteuler.net/)
 * [Exercism](http://exercism.io/tracks/python/)
 * [HackerRank Challenges](https://www.hackerrank.com/domains/python/py-introduction)
+* [Practice Python - CodeChef](https://www.codechef.com/practice/python)
 * [PyBites](http://pybit.es/) - [PyBites Code Challenges Platform](https://codechalleng.es/)
 * [Practice Python](http://www.practicepython.org/)
 * [Python Challenge](http://www.pythonchallenge.com/)
